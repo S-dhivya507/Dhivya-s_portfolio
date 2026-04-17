@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Task Management Application",
+    "description": "A collaborative task management app with authentication, task tracking, and a clean, responsive UI for productivity.",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=500&h=300&fit=crop",
+    "liveLink": "https://task-manager-frontend-c8cy.vercel.app",
+    "tags": [
+      "React",
+      "Node.js",
+      "REST API"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Berry & Root Website",
+    "description": "A modern veg shop experience with realtime stock, clean UI, and smooth checkout flow.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=300&fit=crop",
+    "liveLink": "https://berry-root-website-new.vercel.app/",
+    "tags": [
+      "React",
+      "Node.js",
+      "SQLite"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "AI Trip Planner",
+    "description": "An AI-powered trip planner that builds smart itineraries and travel suggestions using live data.",
+    "image": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=500&h=300&fit=crop",
+    "liveLink": "https://ai-trip-planner-y96s.onrender.com/",
+    "tags": [
+      "React",
+      "AI APIs",
+      "Maps"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Real-Time Emotion & Stress Detection System",
+    "description": "Developed a Real-Time Emotion & Stress Detection System that analyzes facial expressions and voice input to detect human emotions and stress levels. The system uses deep learning models for real-time prediction and displays results through an interactive dashboard.",
+    "image": "https://repository-images.githubusercontent.com/906138658/74bb958a-1440-40e4-994e-51f45b8b01be",
+    "liveLink": "https://fp-final.onrender.com/",
+    "tags": [
+      "Frontend: HTML,CSS,JavaScript,Chart.js",
+      "Backend: Python,Flask",
+      "Libraries & Tools: OpenCV,Librosa,NumPy",
+      "Machine Learning: TensorFlow / Keras (CNN models for face emotion detection,MFCC for audio feature extraction)"
+    ]
+    
+  }
+]
